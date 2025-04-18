@@ -140,6 +140,3 @@ teach-ai-assistant/
 ## Contributors
 
 - Tambi rao  
-- Aditya Bisai 
-- Divyansh Muni 
-- Sumit Kumar
